@@ -1,0 +1,166 @@
+﻿[
+
+    {
+        "Id": 0,
+        "Image": "scarymovie",
+        "Title": "IT",
+        "Genre": "Thriller",
+        "Rating": "R",
+        "Description": "New Line Cinema's horror thriller IT, directed by Andy Muschietti ('Mama'), is based on the hugely popular Stephen King novel of the same name, which has been terrifying readers for decades. When children begin to disappear in the town of Derry, Maine, a group of young kids are faced with their biggest fears when they square off against an evil clown named Pennywise, whose history of murder and violence dates back for centuries.",
+        "Score": 2,
+        "TicketCost": 14,
+        "PeoplesOpinion": "Scary",
+        "MyOpinion": "Average",
+        "Actors": [
+            {
+                "image": "jaeden.jpg",
+                "name": "Jaeden"
+            },
+            {
+                "image": "jeremy.jpg",
+                "name": "Jeremy"
+            },
+            {
+                "image": "sophia.jpg",
+                "name": "Sophia"
+            },
+            {
+                "image": "chosen.jpg",
+                "name": "Chosen"
+            },
+            {
+                "image": "jack.jpg",
+                "name": "Jack"
+            }
+        ],
+        "Photos": [
+            "itone",
+            "ittwo",
+            "itthree",
+            "itfour",
+            "itfive"
+        ]
+    },
+    {
+        "Id": 1,
+        "Image": "wonderwoman",
+        "Title": "Wonder Woman",
+        "Description": "An Amazon princess (Gal Gadot) finds her idyllic life on an island occupied only by female warriors interrupted when a pilot (Chris Pine) crash-lands nearby. After rescuing him, she learns that World War I is engulfing the planet, and vows to use her superpowers to restore peace. Directed by Patty Jenkins (Monster).",
+        "Genre": "Fantasy",
+        "Rating": "PG-13",
+        "Score": 4,
+        "TicketCost": 20,
+        "PeoplesOpinion": "Cool",
+        "MyOpinion": "Must-See",
+        "Actors": [
+            {
+                "image": "galgadot.jpg",
+                "name": "Gal Gadot"
+            },
+            {
+                "image": "chris.jpg",
+                "name": "Chris"
+            },
+            {
+                "image": "connie.jpg",
+                "name": "Connie"
+            },
+            {
+                "image": "robin.jpg",
+                "name": "Robin"
+            }
+        ],
+        "Photos": [
+            "wonderone",
+            "wondertwo",
+            "wonderthree",
+            "wonderfour",
+            "wonderfive",
+            "wondersix"
+        ]
+    },
+    {
+        "Id": 2,
+        "Image": "toystory3",
+        "Title": "Toy Story 3",
+        "Genre": "Fantasy",
+        "Description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "Rating": "G",
+        "Score": 5,
+        "TicketCost": 16,
+        "PeoplesOpinion": "Classic",
+        "MyOpinion": "Funny",
+        "Actors": [
+            {
+                "image": "tom.jpg",
+                "name": "Tom"
+            },
+            {
+                "image": "tim.jpg",
+                "name": "Tim"
+            },
+            {
+                "image": "joan.jpg",
+                "name": "Joan"
+            },
+            {
+                "image": "ned.jpg",
+                "name": "Ned"
+            },
+            {
+                "image": "don.jpg",
+                "name": "Don"
+            }
+        ],
+        "Photos": [
+            "toystoryone",
+            "toystorytwo",
+            "toystorythree",
+            "toystoryfour"
+        ]
+    },
+    {
+        "Id": 3,
+        "Image": "americanmade",
+        "Title": "American Made",
+        "Genre": "Drama",
+        "Rating": "R",
+        "Description": "Barry Seal, a TWA pilot, is recruited by the CIA to provide reconnaissance on the burgeoning communist threat in Central America and soon finds himself in charge of one of the biggest covert CIA operations in the history of the United States that spawned the birth of the Medellin cartel and eventually almost brought down the Reagan White House with the Iran Contra scandal.",
+        "Score": 3,
+        "TicketCost": 20,
+        "PeoplesOpinion": "Great",
+        "MyOpinion": "Awesome",
+        "Actors": [
+            {
+                "image": "tomcruise.jpg",
+                "name": "Cruise"
+            },
+            {
+                "image": "domhnall.jpg",
+                "name": "Dom"
+            },
+            {
+                "image": "sarah.jpg",
+                "name": "Sarah"
+            },
+            {
+                "image": "jesse.jpg",
+                "name": "Jesse"
+            },
+            {
+                "image": "caleb.jpg",
+                "name": "Caleb"
+            },
+            {
+                "image": "lola.jpg",
+                "name": "Lola"
+            }
+        ],
+        "Photos": [
+            "americanmadeone",
+            "americanmadetwo",
+            "americanmadethree",
+            "americanmadefour"
+        ]
+    }
+]
